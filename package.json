@@ -1,7 +1,8 @@
 {
-  "name": "node-trx",
-  "version": "0.8.0",
+  "name": "@indigo/node-trx",
+  "version": "0.8.1",
   "description": "File generator utility for TRX file format for use with Visual Studio and MSBuild",
+  "private": false,
   "keywords": [
     "trx",
     "visual studio",
